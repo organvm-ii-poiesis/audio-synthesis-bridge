@@ -83,7 +83,7 @@ This real-time constraint shapes the architecture fundamentally. The bridge cann
 
 The audio-synthesis-bridge draws on theoretical foundations from ORGAN-I, particularly:
 
-- **[recursive-engine](https://github.com/organvm-i-theoria/recursive-engine)** — The core recursive generation framework. The bridge receives output from recursive-engine's structural description format and must understand its recursion depth annotations, self-reference pointers, and transformation histories. The bridge is, in a sense, the "runtime" for recursive-engine's "compiled" output in the audio domain.
+- **[recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity)** — The core recursive generation framework. The bridge receives output from recursive-engine's structural description format and must understand its recursion depth annotations, self-reference pointers, and transformation histories. The bridge is, in a sense, the "runtime" for recursive-engine's "compiled" output in the audio domain.
 
 - **[organon-noumenon--ontogenetic-morphe](https://github.com/organvm-i-theoria/organon-noumenon--ontogenetic-morphe)** — The ontological framework that defines what constitutes a "thing" in the ORGANVM system. The bridge must understand ORGANVM's ontological categories to correctly interpret structural descriptions: when a generative system says "this phrase *is* a transformation of that phrase," the bridge needs the ontological framework to understand what kind of identity relationship "is" denotes and how to render it sonically.
 
@@ -240,7 +240,7 @@ SuperCollider is both a synthesis engine and a programming language for algorith
 
 ### With ORGAN-I (Theory)
 
-- **[recursive-engine](https://github.com/organvm-i-theoria/recursive-engine)** — Primary source of structural descriptions
+- **[recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity)** — Primary source of structural descriptions
 - **[organon-noumenon--ontogenetic-morphe](https://github.com/organvm-i-theoria/organon-noumenon--ontogenetic-morphe)** — Ontological framework for interpreting structural relationships
 
 ### With ORGAN-III (Commerce)
