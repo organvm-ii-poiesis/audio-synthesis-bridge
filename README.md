@@ -5,6 +5,14 @@
 
 # audio-synthesis-bridge
 
+[![CI](https://github.com/organvm-ii-poiesis/audio-synthesis-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-ii-poiesis/audio-synthesis-bridge/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-ii-poiesis/audio-synthesis-bridge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-ii-poiesis/audio-synthesis-bridge/blob/main/LICENSE)
+[![Organ II](https://img.shields.io/badge/Organ-II%20Poiesis-EC4899)](https://github.com/organvm-ii-poiesis)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-ii-poiesis/audio-synthesis-bridge)
+[![Markdown](https://img.shields.io/badge/lang-Markdown-informational)](https://github.com/organvm-ii-poiesis/audio-synthesis-bridge)
+
+
 **A protocol bridge between generative compositional systems and real-time audio synthesis engines, translating recursive structural descriptions into sound.**
 
 > *Part of [ORGAN-II: Poiesis](https://github.com/organvm-ii-poiesis) — the art and generative creation organ of the [ORGANVM](https://github.com/meta-organvm) system.*
