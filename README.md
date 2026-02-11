@@ -85,7 +85,7 @@ The audio-synthesis-bridge draws on theoretical foundations from ORGAN-I, partic
 
 - **[recursive-engine](https://github.com/organvm-i-theoria/recursive-engine)** — The core recursive generation framework. The bridge receives output from recursive-engine's structural description format and must understand its recursion depth annotations, self-reference pointers, and transformation histories. The bridge is, in a sense, the "runtime" for recursive-engine's "compiled" output in the audio domain.
 
-- **[organon-noumenon](https://github.com/organvm-i-theoria/organon-noumenon)** — The ontological framework that defines what constitutes a "thing" in the ORGANVM system. The bridge must understand ORGANVM's ontological categories to correctly interpret structural descriptions: when a generative system says "this phrase *is* a transformation of that phrase," the bridge needs the ontological framework to understand what kind of identity relationship "is" denotes and how to render it sonically.
+- **[organon-noumenon--ontogenetic-morphe](https://github.com/organvm-i-theoria/organon-noumenon--ontogenetic-morphe)** — The ontological framework that defines what constitutes a "thing" in the ORGANVM system. The bridge must understand ORGANVM's ontological categories to correctly interpret structural descriptions: when a generative system says "this phrase *is* a transformation of that phrase," the bridge needs the ontological framework to understand what kind of identity relationship "is" denotes and how to render it sonically.
 
 - **[metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master)** — The ORGAN-II flagship repository that coordinates all generative subsystems. The audio-synthesis-bridge registers with metasystem-master as an output backend, receiving routed structural descriptions and returning status information about rendering progress and buffer state.
 
@@ -241,7 +241,7 @@ SuperCollider is both a synthesis engine and a programming language for algorith
 ### With ORGAN-I (Theory)
 
 - **[recursive-engine](https://github.com/organvm-i-theoria/recursive-engine)** — Primary source of structural descriptions
-- **[organon-noumenon](https://github.com/organvm-i-theoria/organon-noumenon)** — Ontological framework for interpreting structural relationships
+- **[organon-noumenon--ontogenetic-morphe](https://github.com/organvm-i-theoria/organon-noumenon--ontogenetic-morphe)** — Ontological framework for interpreting structural relationships
 
 ### With ORGAN-III (Commerce)
 
