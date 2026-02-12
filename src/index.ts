@@ -6,5 +6,5 @@
 
 export { OscReceiver, OscMessage } from "./osc.js";
 export { WebAudioEngine, SynthVoice } from "./webaudio.js";
-export type { OscConfig, EngineConfig } from "./osc.js";
-export type { VoiceParams } from "./webaudio.js";
+export type { OscConfig } from "./osc.js";
+export type { EngineConfig, VoiceParams } from "./webaudio.js";
